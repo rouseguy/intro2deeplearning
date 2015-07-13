@@ -30,6 +30,10 @@
     ```
     $ pip install -r requirements.txt
     ```
+
+    Use `requirements_linux.txt` instead of `requirements.txt` if you're on
+    linux
+
 * When the requirements are being downloaded / installed, Fetch the datasets
   simultaneously
 
