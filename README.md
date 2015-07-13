@@ -6,6 +6,13 @@
 
 ## Setup Guide
 *Pre-requisites: git, python 2.7.X, virtualenv, pip* 
+
+* Upgrade pip to the latest version 
+
+    ```
+    $ pip install --upgrade pip
+    ```
+
 * Clone the repo from GitHub
 
     ```
@@ -23,7 +30,8 @@
     ```
     $ pip install -r requirements.txt
     ```
-* Fetch the datasets
+* When the requirements are being downloaded / installed, Fetch the datasets
+  simultaneously
 
     ```
     $ sh download_data.sh
