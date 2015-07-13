@@ -23,6 +23,10 @@
     ```
     $ pip install -r requirements.txt
     ```
+
+    Use `requirements_linux.txt` instead of `requirements.txt` if you're on
+    linux
+
 * Fetch the datasets
 
     ```
