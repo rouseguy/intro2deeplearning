@@ -7,12 +7,6 @@
 ## Setup Guide
 *Pre-requisites: git, python 2.7.X, virtualenv, pip* 
 
-* Upgrade pip to the latest version 
-
-    ```
-    $ pip install --upgrade pip
-    ```
-
 * Clone the repo from GitHub
 
     ```
@@ -24,6 +18,12 @@
     $ virtualenv env
     $ source env/bin/activate
     ```    
+
+* Upgrade pip to the latest version 
+
+    ```
+    $ pip install --upgrade pip
+    ```
 
 * Install requirements using pip
 
