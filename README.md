@@ -1,8 +1,6 @@
 # Introduction to Deep Learning
 
-*Currently, this is a work-in-progress. Slides, data and code would be available by July second week.*
-
-*Instructions for libraries and the data for the workshop will be available by 13th July(Monday) EOD*
+###Attention to Fifth Elephant Participants: Instructions for installating the required software packages and data are given below. Please install the required data and software packages prior to the workshop.
 
 ## Setup Guide
 *Pre-requisites: git, python 2.7.X, virtualenv, pip* 
@@ -50,4 +48,4 @@
     Now, run the first cell with imports in the notebook (shift + enter). 
     If you have all the dependencies installed, this should run without any errors.
     
-**_Note: We only support Linux & OSX machines_**
+**_Note: We only support Linux & OSX environments_**
