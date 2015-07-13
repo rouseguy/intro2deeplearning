@@ -1,6 +1,6 @@
 # Introduction to Deep Learning
 
-###Attention to Fifth Elephant Participants: Instructions for installating the required software packages and data are given below. Please install the required data and software packages prior to the workshop.
+####Attention to Fifth Elephant Participants: Instructions for installating the required software packages and data are given below. Please install the required data and software packages prior to the workshop.
 
 ## Setup Guide
 *Pre-requisites: git, python 2.7.X, virtualenv, pip* 
