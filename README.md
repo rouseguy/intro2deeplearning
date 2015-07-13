@@ -48,4 +48,4 @@
     Now, run the first cell with imports in the notebook (shift + enter). 
     If you have all the dependencies installed, this should run without any errors.
     
-**_Note: We only support Linux & OSX environments_**
+**_Note: We only support Linux & OSX environments. We strongly recommend Windows users to have a VM running Linux, and then install these requirements on that VM._**
