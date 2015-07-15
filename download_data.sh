@@ -8,3 +8,4 @@ tar -xvzf cifar.tar.gz
 tar -xvzf f_el_32_32_images.tar.gz
 tar -xvzf otto.tar.gz
 tar -xvzf blog_data.tar
+tar -xvzf rajni_cigar.tar.gz
