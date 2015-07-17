@@ -3,7 +3,7 @@ boto==2.38.0
 bz2file==0.98
 certifi==2015.4.28
 Cython==0.22.1
-functools32==3.2.3.post2
+functools32==3.2.3-2
 gensim==0.12.0
 ipython==3.2.1
 Jinja2==2.7.3
