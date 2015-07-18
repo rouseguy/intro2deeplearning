@@ -1,6 +1,7 @@
 # Introduction to Deep Learning
 
-####_Attention to Fifth Elephant Participants: Instructions for installating the required software packages and data are given below. Please install the required data and software packages prior to the workshop._
+## Slides for the workshop
+https://speakerdeck.com/bargava/introduction-to-deep-learning
 
 ## Setup Guide
 *Pre-requisites: git, python 2.7.X, virtualenv, pip (7.1.X recommended)* 
