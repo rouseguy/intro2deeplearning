@@ -1,5 +1,23 @@
 # Introduction to Deep Learning
 
+## Topics Covered
+* Introduction to Neural Networks
+* Building a simple neural network from first principles
+* Introduction to Backpropagation algorithm
+* Multi-layer perceptron
+* Convolution Neural Networks
+   *  Introduction to Convolution
+   *  Image Recognition using CNN
+* Natural Language Processing :
+   *  Introduction to `word2vec`
+   *  Introduction to Recurrent Neural Networks
+   *  Text classification using RNN
+   *  Text generation using RNN
+*  Unsupervised learning using Autoencoders
+
+*Depending on time, some of the topics may not be covered during the workshop. But, please note that the entire content(data and source code in `ipython notebook` format) would be available in this repository.*
+
+
 ## Slides for the workshop
 https://speakerdeck.com/bargava/introduction-to-deep-learning
 
