@@ -1,7 +1,7 @@
 # Introduction to Deep Learning
 
 ## Topics Covered
-* Introduction to Neural Networks
+* Introduction to Neural Networks and Deep Learning
 * Building a simple neural network from first principles
 * Introduction to Backpropagation algorithm
 * Multi-layer perceptron
