@@ -1,5 +1,8 @@
 # Introduction to Deep Learning
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2deeplearning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
 ## Topics Covered
 * Introduction to Neural Networks and Deep Learning
 * Building a simple neural network from first principles
@@ -78,5 +81,4 @@ recommend Windows users to have a VM running Linux, and then install these
 requirements on that VM._**
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2deeplearning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
