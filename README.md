@@ -76,3 +76,7 @@ https://speakerdeck.com/bargava/introduction-to-deep-learning
 **_Note: We only support Ubuntu Linux (Tested) & OSX environments. We strongly
 recommend Windows users to have a VM running Linux, and then install these
 requirements on that VM._**
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rouseguy/intro2deeplearning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
