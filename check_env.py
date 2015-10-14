@@ -31,11 +31,10 @@ from distutils.version import LooseVersion as Version
 def import_version(pkg, min_ver, fail_msg=""):
     mod = None
     try:
-        print(pkg)
         mod = importlib.import_module(pkg)
-        # hack for testing keras installation
+        # hack for checking keras installation
         if mod != None and pkg is "keras":
-            print(OK)
+            print(OK, pkg)
             return mod
         # workaround for Image not having __version__
         version = getattr(mod, "__version__", 0) or getattr(mod, "VERSION", 0)
