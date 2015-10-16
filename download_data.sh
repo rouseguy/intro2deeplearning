@@ -7,5 +7,5 @@ curl -Lo cifar.tar.gz https://www.dropbox.com/s/5n17fi55se58074/cifar.tar.gz?dl=
 tar -xvzf cifar.tar.gz
 #tar -xvzf f_el_32_32_images.tar.gz
 tar -xvzf otto.tar.gz
-tar -xvzf blog_data.tar
+tar -xvf blog_data.tar
 tar -xvzf rajni_cigar.tar.gz
