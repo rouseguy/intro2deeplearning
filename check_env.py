@@ -32,13 +32,10 @@ def import_version(pkg, min_ver, fail_msg=""):
     mod = None
     try:
         mod = importlib.import_module(pkg)
-<<<<<<< HEAD
         # hack for checking keras installation
         if mod != None and pkg is "keras":
             print(OK, pkg)
             return mod
-=======
->>>>>>> 3dfc175947990c16782fdbd62f2c93dd52b1cfbf
         # workaround for Image not having __version__
         version = getattr(mod, "__version__", 0) or getattr(mod, "VERSION", 0)
         if Version(version) < min_ver:
@@ -64,15 +61,9 @@ else:
     print(FAIL, "Unknown Python version: %s" % sys.version)
 
 print()
-<<<<<<< HEAD
 requirements = {'numpy': "1.9.2", 'pandas': "0.16.2", 'scipy': "0.15.1",
 'IPython': "4.0", 'sklearn': "0.16.1", 'theano': "0.7.0", 'keras': "0.1.3",
 'gensim': "0.10.3", 'PIL': "1.1.7"}
-=======
-requirements = {'numpy': "1.9.2", 'pandas': "0.16.2", 'scipy': "0.16.0", 'matplotlib': "1.4.3",
-        'IPython': "4.0", 'sklearn': "0.16.1", 'seaborn': "0.6.0", 'theano': "0.7.0", 
-        'PIL': "1.1.7", 'gensim': "0.10.3", 'six': "1.9.0", 'cython': "0.22.1"}
->>>>>>> 3dfc175947990c16782fdbd62f2c93dd52b1cfbf
 
 # now the dependencies
 for lib, required_version in list(requirements.items()):
