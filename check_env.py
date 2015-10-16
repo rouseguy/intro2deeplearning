@@ -59,7 +59,7 @@ else:
 print()
 requirements = {'numpy': "1.9.2", 'pandas': "0.16.2", 'scipy': "0.16.0", 'matplotlib': "1.4.3",
         'IPython': "4.0", 'sklearn': "0.16.1", 'seaborn': "0.6.0", 'theano': "0.7.0", 
-        'PIL': "1.1.7", 'gensim': "0.10.3", 'six': "1.9.0", 'cython': "0.22.1"}
+        'PIL': "1.1.7", 'gensim': "0.10.3", 'six': "1.9.0", 'cython': "0.22.1", 'matplotlib': "1.4.3", 'seaborn': "0.6.0"}
 
 # now the dependencies
 for lib, required_version in list(requirements.items()):
