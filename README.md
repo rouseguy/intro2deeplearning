@@ -64,16 +64,40 @@ https://speakerdeck.com/bargava/introduction-to-deep-learning
     $ sh download_data.sh
     ```
 
-* Run the notebook to test the dependencies
+* Run **check_env.py** script to test the dependencies
+
+    ```
+    $ python check_env.py
+    ```
+    
+    Output should look like this
     
     ```
+    [ OK ] scipy version 0.15.1
+    [ OK ] PIL version 1.1.7
+    [ OK ] keras
+    [ OK ] IPython version 4.0.0
+    [ OK ] theano version 0.7.0
+    [ OK ] numpy version 1.9.2
+    [ OK ] pandas version 0.16.2
+    [ OK ] gensim version 0.10.3
+    [ OK ] sklearn version 0.16.1
+    ```
+    
+    This means you have all the dependencies installed and you're ready to start.
+  
+
+* Run the notebook
+    
+    ```
+    $ cd notebooks
     $ ipython notebook
     ```
     This opens your default browser which displays the list of notebooks in the
-    current directory. Select **test-env** which opens the notebook in a new
-    tab.
+    current directory. 
     
-    Now, run the first cell with imports in the notebook (shift + enter). 
+    Open **1. Introduction to Artificial Neural Networks.ipynb**.
+    Now, run the first cell with imports in the notebook (shift + enter).
     If you have all the dependencies installed, this should run without any
     errors.
     
