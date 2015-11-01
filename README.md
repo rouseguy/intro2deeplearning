@@ -32,7 +32,7 @@ https://speakerdeck.com/bargava/introduction-to-deep-learning
 
   ```
   $ sudo apt-get install python2.7 python-dev build-essential curl libatlas-base-dev gfortran
-  $ sudo apt-get install libfreetype6-dev libpng-dev
+  $ sudo apt-get install libfreetype6-dev libpng-dev libjpeg-dev
   ```
 
 * Clone the repo from GitHub
